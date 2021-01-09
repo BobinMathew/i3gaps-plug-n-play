@@ -9,7 +9,7 @@
 ### Screenshot 2 // Showcase of Polybar and I3 custom config files -- RPI
 ![Screenshot 02](https://github.com/syspentarc/i3gaps-plug-n-play/blob/main/Screenshot%2002.png?raw=true)
 
-## Steps before download & setup
+## Prerequisites
 
 #### Ensure your system is updated:
 `sudo apt-get update`
@@ -19,12 +19,12 @@ Since not all systems are not made the same and not all ditributions work the sa
 #### Upgrade your system:
 `sudo apt-get upgrade`
 
+##### Ensure you have git installed:
+`sudo apt-get install git`
+
 ---
 ## Download and setup
 
-
-##### Ensure you have git installed:
-`sudo apt-get install git`
 
 #### Download:
 `git clone https://github.com/syspentarc/i3gaps-plug-n-play.git`
